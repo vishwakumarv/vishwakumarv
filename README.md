@@ -55,12 +55,16 @@ I’m driven by curiosity and hands-on learning, aiming to grow into a professio
 
 ---
 
+![Metrics](./github-metrics.svg)
+
 ## 📫 Contact
 
 * **Email:** [vkumxr@proton.me](mailto:vkumxr@proton.me)
 * **Portfolio:** https://vkumxr.github.io
 
 ---
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=footer" />
