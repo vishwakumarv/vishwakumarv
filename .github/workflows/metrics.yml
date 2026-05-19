@@ -19,10 +19,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: vkumxr
 
+          config_timezone: Asia/Kolkata
+
           template: classic
           base: header, activity, community, repositories, metadata
-
-          config_timezone: Asia/Kolkata
 
           plugin_languages: yes
           plugin_languages_limit: 8
