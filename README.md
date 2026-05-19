@@ -68,5 +68,5 @@ I’m driven by curiosity and hands-on learning, aiming to grow into a professio
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0969DA&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=120&section=footer" />
 </p>
