@@ -65,10 +65,6 @@ I’m driven by curiosity and hands-on learning, aiming to grow into a professio
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?..." />
-</p>
-
 
 
 <p align="center">
