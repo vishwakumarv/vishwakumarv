@@ -56,7 +56,7 @@ I’m driven by curiosity and hands-on learning, aiming to grow into a professio
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vkumxr&bg_color=0d1117&color=bf91f3&line=a855f7&point=ffffff&area=true&hide_border=true" />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vkumxr/vkumxr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vishwakumarv/vishwakumarv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 📫 Contact
