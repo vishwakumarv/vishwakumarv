@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Building systems, breaking abstractions.  
+  Building systems, breaking abstractions.
   <br/>
   Cybersecurity • Linux • AI
 </p>
@@ -14,14 +14,15 @@
 
 I’m an engineering student focused on cybersecurity, Linux systems, and low-level computing.
 
-My interests revolve around understanding how real-world systems work internally, how they fail, and how they can be secured. I enjoy working beyond surface-level development through system analysis, offensive security labs, automation, and reverse engineering concepts.
+My interests revolve around understanding how real-world systems work internally, how they fail, and how they can be secured. I enjoy going beyond surface-level development through system analysis, offensive security labs, automation, reverse engineering, and embedded experimentation.
 
 Current areas of focus:
 - Offensive security & penetration testing labs
 - Linux internals, networking, and system exploitation
 - Security automation using Python, Bash, and scripting
 - Web & Android security fundamentals
-- Reverse engineering & malware analysis (learning phase)
+- Reverse engineering & malware analysis fundamentals
+- IoT and embedded system workflows
 
 ---
 
@@ -31,6 +32,7 @@ Current areas of focus:
 - Python
 - C
 - Bash
+- Java
 
 ### Systems & Security
 - Linux
@@ -38,29 +40,41 @@ Current areas of focus:
 - Networking fundamentals
 - Traffic analysis
 - Vulnerability assessment
-- Privilege escalation
 - Enumeration & recon workflows
+- Privilege escalation
+- Reverse engineering fundamentals
 
 ### Tools
 - Wireshark
 - Burp Suite
 - Nmap
 - Metasploit
+- Ghidra
+- CyberChef
 - Git
 - Docker
+- VirtualBox
+- QEMU
 
 ---
 
-## 🚀 Projects
+## 💼 Experience
 
-- **ReDroid AI**  
-  AI-assisted reverse engineering workflow focused on code understanding and automated reporting.
+### Wimera Systems — Summer Intern
+- Exposure to ESP32-based IoT and embedded workflows
+- Worked with dashboard monitoring and device testing
+- Explored Matter protocol concepts and smart-device communication
 
-- **PuBOT**  
-  Raspberry Pi–based automation and experimentation environment.
+### Saiket Systems - ML Intern
+- Worked on classification and anomaly-detection workflows using Python
+- Performed preprocessing and model experimentation on security-related datasets
+- Documented workflows and experimental observations for reproducibility
+- Explored practical applications of machine learning in cybersecurity contexts
 
-- **Modbus RTU Operations**  
-  Industrial communication protocol implementation with CRC handling and read/write operations.
+### InlighnX Global Pvt. Ltd. - Offensive Cybersecurity Intern
+- Vulnerability assessment and penetration testing labs
+- Security scripting and automation utilities
+- Exposure to hashing algorithms, recon, and enumeration workflows
 
 ---
 
