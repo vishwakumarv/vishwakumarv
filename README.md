@@ -114,7 +114,6 @@ Current areas of focus:
 - **Portfolio:** https://vishwakumarv.github.io/
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161B22&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:1E3A8A&height=120&section=footer" />
 </p>
