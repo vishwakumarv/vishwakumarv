@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:1D4ED8&height=140&section=header&text=V%20Vishwa%20Kumar&fontSize=42&fontColor=E6F1FF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:1D4ED8&height=220&section=header&text=V%20Vishwa%20Kumar&fontSize=42&fontColor=E6F1FF&fontAlignY=38&desc=Building%20systems,%20breaking%20abstractions.%20%7C%20Cybersecurity%20•%20Linux%20•%20AI&descAlignY=60&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
