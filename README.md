@@ -101,6 +101,12 @@ Current areas of focus:
 - **Email:** [vishwakumarv05@gmail.com](mailto:vishwakumarv05@gmail.com)
 - **Writeups:** https://vishwakumarv.github.io/
 
+## Support
+
+If you like my writeups and security research:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/vishwakumarv)
+
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:1E3A8A&height=120&section=footer" />
