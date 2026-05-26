@@ -98,7 +98,7 @@ Current areas of focus:
 
 ## 📫 Contact
 
-- **Email:** [vkumxr@proton.me](mailto:vkumxr@proton.me)
+- **Email:** [vkumxr@proton.me](mailto:vishwakumarv05@gmail.com)
 - **Writeups:** https://vishwakumarv.github.io/
 
 ---
