@@ -1,113 +1,234 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:112240,100:1D4ED8&height=220&section=header&text=V%20Vishwa%20Kumar&fontSize=42&fontColor=E6F1FF&fontAlignY=38&desc=Building%20systems,%20breaking%20abstractions.%20%7C%20Cybersecurity%20•%20Linux%20•%20AI&descAlignY=60&descSize=18&animation=fadeIn" />
-</p>
+<!-- HEADER -->
+<div align="center">
 
-I’m an engineering student focused on cybersecurity, Linux systems, and low-level computing. My interests revolve around understanding how real-world systems work internally, how they fail, and how they can be secured. I enjoy going beyond surface-level development through system analysis, offensive security labs, automation, reverse engineering, and embedded experimentation.
+```
+██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗
+██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗
+██║   ██║██║███████╗███████║██║ █╗ ██║███████║
+╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║
+ ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝
+```
 
-Current areas of focus:
-- Offensive security & penetration testing labs
-- Linux internals, networking, and system exploitation
-- Security automation using Python, Bash, and scripting
-- Web & Android security fundamentals
-- Reverse engineering & malware analysis fundamentals
-- IoT and embedded system workflows
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Breaking+systems+to+understand+them.;Offensive+Security+%7C+Linux+%7C+Low-level+Computing" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vishwakumarv&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwakumarv)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-support_my_research-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vishwakumarv)
+
+</div>
 
 ---
 
-## 🧠 Skills
+<!-- ABOUT -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+### `$ whoami`
+
+```bash
+[vishwa@kali ~]$ cat about.txt
+
+Name     : V Vishwa Kumar
+Role     : ECE Student → Cybersecurity
+College  : PSG College of Technology
+Focus    : Offensive Security, RE, Linux Internals
+OS       : Kali Linux / Parrot OS Security
+Motto    : "The best way to defend is to attack first."
+
+[vishwa@kali ~]$ █
+```
+
+- 🎯 CTF competitor — HackTheBox, TryHackMe, picoCTF, and local competitions
+- 🔬 Interested in how systems **actually** work under the hood
+- 🛡️ Building skills across pentesting, malware analysis, and embedded security
+- 📝 Documenting research at **[vishwakumarv.github.io](https://vishwakumarv.github.io)**
+- 🎬 Origin story: *Mr. Robot* → Kali Linux → no going back
+
+<br clear="right"/>
+
+---
+
+<!-- SKILLS -->
+## ⚙️ Arsenal
+
+<div align="center">
 
 ### Languages
-- Python
-- C
-- Bash
-- Java
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Systems & Security
-- Linux
-- System internals
-- Networking fundamentals
-- Traffic analysis
-- Vulnerability assessment
-- Enumeration & recon workflows
-- Privilege escalation
-- Reverse engineering fundamentals
+### Security & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### Tools
-- Wireshark
-- Burp Suite
-- Nmap
-- Metasploit
-- Ghidra
-- CyberChef
-- Git
-- Docker
-- VirtualBox
-- QEMU
+### Tools & Platforms
+![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-003087?style=for-the-badge&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+</div>
 
 ---
 
+<!-- EXPERIENCE -->
 ## 💼 Experience
 
-### Wimera Systems — Summer Intern
-- Exposure to ESP32-based IoT and embedded workflows
-- Worked with dashboard monitoring and device testing
-- Explored Matter protocol concepts and smart-device communication
+<details>
+<summary><b>🔴 InlighnX Global — Offensive Cybersecurity Intern</b></summary>
+<br/>
 
-### Saiket Systems - ML Intern
-- Worked on classification and anomaly-detection workflows using Python
-- Performed preprocessing and model experimentation on security-related datasets
-- Documented workflows and experimental observations for reproducibility
-- Explored practical applications of machine learning in cybersecurity contexts
+```
+┌─────────────────────────────────────────────────────┐
+│  Role    : Offensive Security Intern                │
+│  Focus   : Vulnerability Assessment & Pentesting   │
+│                                                     │
+│  ✓ Vulnerability assessment and pentesting labs     │
+│  ✓ Security scripting and automation in Python/Bash │
+│  ✓ Recon, enumeration, and hashing workflows        │
+└─────────────────────────────────────────────────────┘
+```
 
-### InlighnX Global Pvt. Ltd. - Offensive Cybersecurity Intern
-- Vulnerability assessment and penetration testing labs
-- Security scripting and automation utilities
-- Exposure to hashing algorithms, recon, and enumeration workflows
+</details>
+
+<details>
+<summary><b>🤖 Saiket Systems — ML Intern</b></summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────┐
+│  Role    : Machine Learning Intern                  │
+│  Focus   : Security-oriented ML Pipelines          │
+│                                                     │
+│  ✓ Classification & anomaly-detection workflows     │
+│  ✓ Preprocessing & model experimentation on        │
+│    security-relevant datasets                       │
+│  ✓ Applied ML in cybersecurity contexts             │
+└─────────────────────────────────────────────────────┘
+```
+
+</details>
+
+<details>
+<summary><b>🔌 Wimera Systems — Summer Intern (IoT/Embedded)</b></summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────┐
+│  Role    : Embedded Systems Intern                  │
+│  Focus   : ESP32, IoT, Smart Devices               │
+│                                                     │
+│  ✓ ESP32-based IoT and embedded workflows           │
+│  ✓ Dashboard monitoring and device testing          │
+│  ✓ Matter protocol & smart-device communication     │
+└─────────────────────────────────────────────────────┘
+```
+
+</details>
+
+---
+
+<!-- CTF SECTION -->
+## 🚩 CTF Activity
+
+```
+[vishwa@kali ~]$ cat ctf_log.txt
+```
+
+| Competition | Category | Outcome |
+|------------|----------|---------|
+| **picoCTF** (MultiCode, Password Profiler, StegoRSA) | Crypto / Forensics / Stego | ✅ Solved |
+| **MIRAGE CTF** | OSINT / Forensics | ✅ Flagged |
+| **HackZero CTF** (Turla APT series) | Threat Intel / Malware | ✅ Completed |
+| **DevTrails CTF 2026** | Docker / Web / Misc | ✅ All 5 flags |
+| **Bypass CTF 2025** | Multi-category | ✅ Participated |
+| **Yukthi CTF 2.0** | Multi-category | ✅ Participated |
+| **BlockChain CTF** | Blockchain / Web3 | ✅ Participated |
+| **Vibe Hack** | Multi-category | ✅ Participated |
+
+> 📖 Detailed writeups at **[vishwakumarv.github.io](https://vishwakumarv.github.io)**
 
 ---
 
-## 🌐 Profiles
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vishwakumarv/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/vkumxr">
-    <img src="https://tryhackme.com/img/favicon.png" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/users/2569138">
-    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" />
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=vishwakumarv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
 
-## 📈 Activity
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakumarv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="48%" alt="GitHub Streak"/>
 
-![Metrics](./github-metrics.svg)
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakumarv&bg_color=0d1117&color=bf91f3&line=a855f7&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakumarv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" width="40%" alt="Top Languages"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vishwakumarv/vishwakumarv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+</div>
 
 ---
 
-## 📫 Contact
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Graph
 
-- **Email:** [vishwakumarv05@gmail.com](mailto:vishwakumarv05@gmail.com)
-- **Writeups:** https://vishwakumarv.github.io/
-
-## Support
-
-If you like my writeups and security research:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/vishwakumarv)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakumarv&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" width="100%" alt="Activity Graph"/>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:1E3A8A&height=120&section=footer" />
-</p>
+
+<!-- SNAKE -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/vishwakumarv/vishwakumarv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<!-- PLATFORMS -->
+## 🌐 Find Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwakumarv/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2569138)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vkumxr)
+[![Blog](https://img.shields.io/badge/Security_Blog-FF5722?style=for-the-badge&logo=jekyll&logoColor=white)](https://vishwakumarv.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakumarv05@gmail.com)
+
+</div>
+
+---
+
+<!-- SUPPORT -->
+## ☕ Support
+
+If my writeups helped you pop a shell, crack a hash, or understand a concept:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vishwakumarv)
+
+*Every coffee funds more late-night CTF sessions and writeups.*
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+```bash
+[vishwa@kali ~]$ echo "Thanks for visiting. Now go break something."
+Thanks for visiting. Now go break something.
+[vishwa@kali ~]$ █
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF20,100:0D1117&height=100&section=footer" />
+
+</div>
