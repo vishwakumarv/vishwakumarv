@@ -31,8 +31,7 @@
 
 Name     : V Vishwa Kumar
 Role     : ECE Student → Cybersecurity
-College  : PSG College of Technology
-Focus    : Offensive Security, RE, Linux Internals
+Focus    : Cybersecurity, Bug Bounty, Ethical Hacking
 OS       : Kali Linux / Parrot OS Security
 Motto    : "The best way to defend is to attack first."
 
@@ -43,7 +42,6 @@ Motto    : "The best way to defend is to attack first."
 - 🔬 Interested in how systems **actually** work under the hood
 - 🛡️ Building skills across pentesting, malware analysis, and embedded security
 - 📝 Documenting research at **[vishwakumarv.github.io](https://vishwakumarv.github.io)**
-- 🎬 Origin story: *Mr. Robot* → Kali Linux → no going back
 
 <br clear="right"/>
 
@@ -74,6 +72,7 @@ Motto    : "The best way to defend is to attack first."
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![CyberChef](https://img.shields.io/badge/CyberChef-003087?style=for-the-badge&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
