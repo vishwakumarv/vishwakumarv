@@ -165,15 +165,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishwakumarv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakumarv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakumarv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakumarv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishwakumarv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishwakumarv&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10" width="55%" alt="Trophies"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakumarv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishwakumarv&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10" alt="Trophies"/>
 
 </div>
 
