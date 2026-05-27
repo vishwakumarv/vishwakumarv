@@ -164,13 +164,7 @@ Motto    : "The best way to defend is to attack first."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishwakumarv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakumarv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="48%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakumarv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -221,7 +215,7 @@ If my writeups helped you pop a shell, crack a hash, or understand a concept:
 ---
 
 <!-- FOOTER -->
-<div align="center">
+<div align="left">
 
 ```bash
 [vishwa@kali ~]$ echo "Thanks for visiting. Now go break something."
