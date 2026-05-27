@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:001F2F,50:00D9FF20,75:001F2F,100:0D1117&height=260&section=header&text=VISHWA%20KUMAR&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Reverse%20Engineering%20%7C%20AI&descSize=20&descAlignY=58" />
-
 <!-- HEADER -->
 <div align="center">
 
@@ -12,11 +10,11 @@
   ╚═══╝        ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Breaking+systems+to+understand+them.;Offensive+Security+%7C+Linux+%7C+Low-level+Computing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Breaking+systems+to+understand+them.;Offensive+Security+%7C+Linux+%7C+Low-level+Computing" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vishwakumarv&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwakumarv)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishwakumarv&color=00FFD1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwakumarv)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-support_my_research-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vishwakumarv)
 
 </div>
@@ -174,7 +172,7 @@ Motto    : "The best way to defend is to attack first."
 <!-- ACTIVITY GRAPH -->
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakumarv&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakumarv&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&hide_border=true&area_color=00FFD1" width="100%" alt="Activity Graph"/>
 
 ---
 
