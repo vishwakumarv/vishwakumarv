@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF20,100:0D1117&height=220&section=header&text=Vishwa%20Kumar&fontSize=45&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Reverse%20Engineering%20%7C%20AI&descAlignY=55&descSize=18" />
+
 <!-- HEADER -->
 <div align="center">
 
