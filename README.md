@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:001a00,70:003300,100:00FF41&height=200&section=header&text=VISHWA%20KUMAR&fontSize=60&fontColor=00FF41&fontAlignY=45&desc=%5B%20Offensive%20Security%20%7C%20Reverse%20Engineering%20%7C%20CTF%20Player%20%5D&descSize=14&descColor=44FF44&descAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b3e,70:1a2a5e,100:1e3a8a&height=200&section=header&text=VISHWA%20KUMAR&fontSize=60&fontColor=e0f2fe&fontAlignY=45&desc=%5B%20Offensive%20Security%20%7C%20Reverse%20Engineering%20%7C%20CTF%20Player%20%5D&descSize=14&descColor=7dd3fc&descAlignY=65&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2000&pause=600&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=140&lines=%24+whoami+%E2%86%92+Vishwa+Kumar;%24+cat+%2Fetc%2Fmotd+%E2%86%92+Breaking+systems+to+understand+them.;%24+uname+-a+%E2%86%92+Kali+Linux+x86_64+GNU%2FLinux;%24+uptime+%E2%86%92+3yrs+hacking%2C+0+days+stopping;%24+echo+%24ORIGIN+%E2%86%92+Mr.+Robot+%E2%86%92+Kali+%E2%86%92+no+going+back." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2000&pause=600&color=7DD3FC&center=true&vCenter=true&multiline=true&width=800&height=140&lines=%24+whoami+%E2%86%92+Vishwa+Kumar;%24+cat+%2Fetc%2Fmotd+%E2%86%92+Breaking+systems+to+understand+them.;%24+uname+-a+%E2%86%92+Kali+Linux+x86_64+GNU%2FLinux;%24+uptime+%E2%86%92+3yrs+hacking%2C+0+days+stopping;%24+echo+%24ORIGIN+%E2%86%92+Mr.+Robot+%E2%86%92+Kali+%E2%86%92+no+going+back." alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vishwakumarv&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwakumarv)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishwakumarv&color=1e3a8a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwakumarv)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-support_my_research-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vishwakumarv)
 
 </div>
