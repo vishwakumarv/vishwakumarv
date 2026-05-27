@@ -1,14 +1,20 @@
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1b3e,70:1a2a5e,100:1e3a8a&height=200&section=header&text=VISHWA%20KUMAR&fontSize=60&fontColor=e0f2fe&fontAlignY=45&desc=%5B%20Offensive%20Security%20%7C%20Reverse%20Engineering%20%7C%20CTF%20Player%20%5D&descSize=14&descColor=7dd3fc&descAlignY=65&animation=twinkling" width="100%"/>
+```
+██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗
+██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗
+██║   ██║██║███████╗███████║██║ █╗ ██║███████║
+╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║
+ ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Breaking+systems+to+understand+them.;Offensive+Security+%7C+Linux+%7C+Low-level+Computing" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=2000&pause=600&color=7DD3FC&center=true&vCenter=true&multiline=true&width=800&height=140&lines=%24+whoami+%E2%86%92+Vishwa+Kumar;%24+cat+%2Fetc%2Fmotd+%E2%86%92+Breaking+systems+to+understand+them.;%24+uname+-a+%E2%86%92+Kali+Linux+x86_64+GNU%2FLinux;%24+uptime+%E2%86%92+3yrs+hacking%2C+0+days+stopping;%24+echo+%24ORIGIN+%E2%86%92+Mr.+Robot+%E2%86%92+Kali+%E2%86%92+no+going+back." alt="Typing SVG" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=vishwakumarv&color=1e3a8a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwakumarv)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishwakumarv&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwakumarv)
 [![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-support_my_research-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vishwakumarv)
 
 </div>
@@ -78,17 +84,17 @@ Motto    : "The best way to defend is to attack first."
 ## 💼 Experience
 
 <details>
-<summary><b>🔌 Wimera Systems — Summer Intern (IoT/Embedded)</b></summary>
+<summary><b>🔴 InlighnX Global — Offensive Cybersecurity Intern</b></summary>
 <br/>
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  Role    : Embedded Systems Intern                  │
-│  Focus   : ESP32, IoT, Smart Devices               │
+│  Role    : Offensive Security Intern                │
+│  Focus   : Vulnerability Assessment & Pentesting   │
 │                                                     │
-│  ✓ ESP32-based IoT and embedded workflows           │
-│  ✓ Dashboard monitoring and device testing          │
-│  ✓ Matter protocol & smart-device communication     │
+│  ✓ Vulnerability assessment and pentesting labs     │
+│  ✓ Security scripting and automation in Python/Bash │
+│  ✓ Recon, enumeration, and hashing workflows        │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -113,17 +119,17 @@ Motto    : "The best way to defend is to attack first."
 </details>
 
 <details>
-<summary><b>🔴 InlighnX Global — Offensive Cybersecurity Intern</b></summary>
+<summary><b>🔌 Wimera Systems — Summer Intern (IoT/Embedded)</b></summary>
 <br/>
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  Role    : Offensive Security Intern                │
-│  Focus   : Vulnerability Assessment & Pentesting   │
+│  Role    : Embedded Systems Intern                  │
+│  Focus   : ESP32, IoT, Smart Devices               │
 │                                                     │
-│  ✓ Vulnerability assessment and pentesting labs     │
-│  ✓ Security scripting and automation in Python/Bash │
-│  ✓ Recon, enumeration, and hashing workflows        │
+│  ✓ ESP32-based IoT and embedded workflows           │
+│  ✓ Dashboard monitoring and device testing          │
+│  ✓ Matter protocol & smart-device communication     │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -158,8 +164,13 @@ Motto    : "The best way to defend is to attack first."
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=vishwakumarv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakumarv&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="48%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakumarv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -217,11 +228,6 @@ If my writeups helped you pop a shell, crack a hash, or understand a concept:
 Thanks for visiting. Now go break something.
 [vishwa@kali ~]$ █
 ```
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=vishwakumarv&color=1e3a8a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vishwakumarv)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF20,100:0D1117&height=100&section=footer" />
 
