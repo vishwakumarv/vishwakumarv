@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF20,100:0D1117&height=220&section=header&text=Vishwa%20Kumar&fontSize=45&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Reverse%20Engineering%20%7C%20AI&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:001F2F,50:00D9FF20,75:001F2F,100:0D1117&height=260&section=header&text=VISHWA%20KUMAR&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Reverse%20Engineering%20%7C%20AI&descSize=20&descAlignY=58" />
 
 <!-- HEADER -->
 <div align="center">
