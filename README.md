@@ -118,7 +118,7 @@ Motto    : "The best way to defend is to attack first."
 </details>
 
 <details>
-<summary><b>🔌 Wimera Systems — Summer Intern (IoT/Embedded)</b></summary>
+<summary><b>🔌 Wimera Systems — Summer Intern </b></summary>
 <br/>
 
 ```
