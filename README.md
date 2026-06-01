@@ -12,6 +12,10 @@
   ╚═══╝        ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300"/>
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Breaking+systems+to+understand+them.;Offensive+Security+%7C+Linux+%7C+Low-level+Computing" alt="Typing SVG" />
 
 <br/>
