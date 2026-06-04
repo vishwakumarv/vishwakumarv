@@ -10,7 +10,7 @@
 
 </div>
 
-Hello, this is **V Vishwa Kumar**. I work in defensive security and I'm preparing for SOC, DFIR, and Security Operations roles. I break things from an attacker's perspective so I can defend faster — that's not a philosophy, it's a workflow.
+Hello, this is **V Vishwa Kumar**. I work in defensive security and I'm preparing for SOC, DFIR, and Security Operations roles. I break things from an attacker's perspective so I can defend faster — that's not a philosophy, it's a workflow. [Read more](https://vishwakumarv.github.io/about/).
 
 I think in terms of alerts, timelines, and evidence. A finding without a timeline and a recommendation is unfinished work. I run **Linux** daily, document everything I touch as a case study, and study attacker tradecraft across web, OSINT, and reverse engineering to keep my perspective fresh. I'm drawn to **detection engineering**, malware triage, and the boring-but-critical reliability work that holds a security program together.
 
