@@ -2,20 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=60&pause=9999&color=00FF41&center=true&vCenter=true&width=700&lines=INITIALIZING+SECURE+SHELL...+CONNECTING+TO+NODE+[REDACTED]...+AUTH+OK" alt="boot" />
 
-```
-███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
-██╔════╝██╔════╝██╔═══██╗██╔════╝██║██╔════╝╚══██╔══╝╚██╗ ██╔╝
-█████╗  ███████╗██║   ██║██║     ██║█████╗     ██║    ╚████╔╝ 
-██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝  
-██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║   
-╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝  
-```
+<div align="left">
 
 ```
 > Hello, friend.
 > I know what you're looking for.
 > You came to the right place.
 ```
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=650&height=70&lines=We+are+fsociety.+We+are+finally+free.;Breaking+systems+to+understand+them." alt="Typing SVG" />
 
@@ -25,25 +19,18 @@
 
 ---
 
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mr_Robot_Title_Card.png/320px-Mr_Robot_Title_Card.png" width="220" alt="Mr Robot"/>
-</div>
-
----
-
 ## `> whoami`
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   handle   :  vishwakumarv                                  │
-│   location :  Bangalore, India [node: 10.0.0.1]             │
-│   cover    :  ECE Student @ PSG College of Technology        │
-│   reality  :  Offensive Security / Embedded Systems / CTF   │
+│   handle   :  Vishwa Kumar                                   │
+│   location :  Bangalore, India                               │
+│   reality  :  SOC / DFIR                                     │
 │   os       :  Kali Linux                                     │
-│   pgp      :  vkumxr@proton.me                              │
+│   pgp      :  vkumxr@proton.me                               │
 │                                                              │
-│   "The world is a dangerous place, Elliot, not because of   │
+│   "The world is a dangerous place, Elliot, not because of    │
 │    those who do evil, but because of those who look on       │
 │    and do nothing."                          — Mr. Robot     │
 │                                                              │
