@@ -1,5 +1,10 @@
-<div align="left">
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=650&height=70&lines=We+are+fsociety.+We+are+finally+free.;Breaking+systems+to+understand+them." alt="Typing SVG" />
+
+</div>
+<div align="left">
+  
 `npx vishwakumarv`
 
 </div>
