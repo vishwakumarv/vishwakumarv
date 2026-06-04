@@ -36,9 +36,19 @@ Don't forget to check my projects below 👇
   <a href="https://www.linkedin.com/in/vishwakumarv">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://app.hackthebox.com/public/users/2569138">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=141D2B">
+  </a>
+  <a href="https://tryhackme.com/p/vishwakumarv">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+  </a>
+  <a href="https://cryptohack.org/user/vishwakumarv/">
+    <img src="https://img.shields.io/badge/CryptoHack-FFD700?style=for-the-badge&logo=gnuprivacyguard&logoColor=black">
+  </a>
+  <a href="https://cyberdefenders.org/p/vishwakumarv">
+    <img src="https://img.shields.io/badge/CyberDefenders-1A73E8?style=for-the-badge&logo=shield&logoColor=white">
+  </a>
   <a href="https://buymeacoffee.com/vishwakumarv">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black">
   </a>
 </p>
-
-*P.S. To read this intro in the terminal, just run `npx vishwakumarv`. But why? — why not.*
