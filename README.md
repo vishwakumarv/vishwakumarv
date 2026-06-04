@@ -17,8 +17,8 @@ I think in terms of alerts, timelines, and evidence. A finding without a timelin
 I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and [TryHackMe](https://tryhackme.com/p/vkumxr), have interned building ESP32-based IIoT devices and doing offensive security work, and I treat side projects like real engagements — scope, evidence, findings, recommendations, lessons learned. I write everything up at [vishwakumarv.github.io](https://vishwakumarv.github.io).
 
 - 🖥️ [What am I hacking? (HackTheBox)](https://app.hackthebox.com/users/2569138)
-- 🚩 [What am I solving? (TryHackMe)](https://tryhackme.com/p/vkumxr)
-- 📝 [What do I write? (Blog + Writeups)](https://vishwakumarv.github.io)
+- 🚩 [What am I solving? (TryHackMe)](https://tryhackme.com/p/vishwakumarv)
+- 📝 [What do I write? (Writeups)](https://vishwakumarv.github.io/writeups)
 - 💼 [Where have I worked? (LinkedIn)](https://www.linkedin.com/in/vishwakumarv/)
 - 📬 [How to reach me (ProtonMail)](mailto:vkumxr@proton.me)
 
