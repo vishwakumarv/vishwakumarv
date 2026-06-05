@@ -6,7 +6,7 @@
 
 <div align="left">
 
-`npx vishwakumarv`
+`cat whoami.txt`
 
 </div>
 
