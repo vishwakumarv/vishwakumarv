@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3500&pause=800&color=00FFD1&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Attacker%27s+perspective.+Defender%27s+mission.;SOC+%C2%B7+DFIR+%C2%B7+Detection+Engineering" alt="Typing SVG" />
 </div>
