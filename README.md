@@ -26,7 +26,7 @@ Hello, I'm **V Vishwa Kumar**. I work in defensive security and I'm preparing fo
 
 I think in terms of alerts, timelines, and evidence. A finding without a timeline and a recommendation is unfinished work. I run **Linux** daily, document everything I touch as a case study, and study attacker tradecraft across web, OSINT, and reverse engineering to keep my perspective fresh. I'm drawn to **detection engineering**, malware triage, and the boring-but-critical reliability work that holds a security program together.
 
-I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and [TryHackMe](https://tryhackme.com/p/vkumxr), have interned building ESP32 and Raspberry Pi-based IIoT devices and doing security work. I treat side projects like real engagements — scope, evidence, findings, recommendations, lessons learned. I write everything up at [vishwakumarv.github.io](https://vishwakumarv.github.io).
+I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and [TryHackMe](https://tryhackme.com/p/vishwakumarv), have interned building ESP32 and Raspberry Pi-based IIoT devices and doing security work. I treat side projects like real engagements — scope, evidence, findings, recommendations, lessons learned. I write everything up at [vishwakumarv.github.io](https://vishwakumarv.github.io).
 
 ---
 
@@ -36,7 +36,7 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 |---|---|
 | 🖥️ Portfolio | [vishwakumarv.github.io](https://vishwakumarv.github.io) |
 | 🎯 HackTheBox | [What am I hacking?](https://app.hackthebox.com/users/2569138) |
-| 🚩 TryHackMe | [What am I solving?](https://tryhackme.com/p/vkumxr) |
+| 🚩 TryHackMe | [What am I solving?](https://tryhackme.com/p/vishwakumarv) |
 | 📝 Writeups | [vishwakumarv.github.io/writeups](https://vishwakumarv.github.io/writeups) |
 | 💼 LinkedIn | [vishwakumarv](https://www.linkedin.com/in/vishwakumarv/) |
 | 📬 Mail | [vkumxr@proton.me](mailto:vkumxr@proton.me) |
@@ -131,7 +131,7 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/vkumxr">
+<a href="https://tryhackme.com/p/vishwakumarv">
   <img src="https://tryhackme-badges.s3.amazonaws.com/vkumxr.png" alt="TryHackMe Badge"/>
 </a>
 
@@ -184,7 +184,9 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 
 <div align="center">
 
-> *"The quieter you become, the more you are able to hear."* — Kali Linux motto
+> *"Give a man a gun and he can rob a bank. Give a man a bank and he can rob the world."*
+> 
+> — Mr. Robot
 
 </div>
 
