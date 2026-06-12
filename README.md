@@ -9,8 +9,9 @@
 <!-- Profile views + followers -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=vishwakumarv&label=Profile+Views&color=00FFD1&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/vishwakumarv?label=Followers&style=flat-square&color=00FFD1&labelColor=0d0d0d" alt="GitHub Followers"/>
-</p>
+  <a href="https://buymeacoffee.com/vishwakumarv">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black">
+  </a>
 
 </div>
 
