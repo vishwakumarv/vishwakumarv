@@ -107,16 +107,6 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishwakumarv&theme=matrix&no-frame=true&row=1&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 🎯 CTF & Hacking Platforms
 
 <div align="center">
