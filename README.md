@@ -132,7 +132,7 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 <div align="center">
 
 <a href="https://tryhackme.com/p/vishwakumarv">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/vkumxr.png" alt="TryHackMe Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/vishwakumarv.png" alt="TryHackMe Badge"/>
 </a>
 
 </div>
