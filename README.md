@@ -26,7 +26,7 @@ Hello, I'm **V Vishwa Kumar**. I work in defensive security and I'm preparing fo
 
 I think in terms of alerts, timelines, and evidence. A finding without a timeline and a recommendation is unfinished work. I run **Linux** daily, document everything I touch as a case study, and study attacker tradecraft across web, OSINT, and reverse engineering to keep my perspective fresh. I'm drawn to **detection engineering**, malware triage, and the boring-but-critical reliability work that holds a security program together.
 
-I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and [TryHackMe](https://tryhackme.com/p/vkumxr), have interned building ESP32-based IIoT devices and doing offensive security work, and I treat side projects like real engagements — scope, evidence, findings, recommendations, lessons learned. I write everything up at [vishwakumarv.github.io](https://vishwakumarv.github.io).
+I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and [TryHackMe](https://tryhackme.com/p/vkumxr), have interned building ESP32 and Raspberry Pi-based IIoT devices and doing security work. I treat side projects like real engagements — scope, evidence, findings, recommendations, lessons learned. I write everything up at [vishwakumarv.github.io](https://vishwakumarv.github.io).
 
 ---
 
@@ -39,7 +39,7 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 | 🚩 TryHackMe | [What am I solving?](https://tryhackme.com/p/vkumxr) |
 | 📝 Writeups | [vishwakumarv.github.io/writeups](https://vishwakumarv.github.io/writeups) |
 | 💼 LinkedIn | [vishwakumarv](https://www.linkedin.com/in/vishwakumarv/) |
-| 📬 ProtonMail | [vkumxr@proton.me](mailto:vkumxr@proton.me) |
+| 📬 Mail | [vkumxr@proton.me](mailto:vkumxr@proton.me) |
 
 ---
 
