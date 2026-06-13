@@ -115,17 +115,23 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 <div align="center">
 
 <a href="https://app.hackthebox.com/users/2569138">
-  <img src="https://www.hackthebox.eu/badge/image/2569138" alt="HackTheBox Badge"/>
+  <img src="https://www.hackthebox.eu/badge/image/2569138" alt="Hack The Box Badge" />
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
+<a href="https://cyberdefenders.org/p/vishwakumarv/">
+  <img src="https://img.shields.io/badge/CyberDefenders-Profile-0A66C2?style=for-the-badge&logo=shield&logoColor=white" alt="CyberDefenders Profile" />
+</a>
+
+&nbsp;&nbsp;
+
 <a href="https://tryhackme.com/p/vishwakumarv">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/vishwakumarv.png" alt="TryHackMe Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/vishwakumarv.png" alt="TryHackMe Badge" />
 </a>
 
 </div>
