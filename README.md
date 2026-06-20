@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Attacker%27s+perspective.+Defender%27s+mission.;SOC+%C2%B7+DFIR+%C2%B7+Detection+Engineering" alt="Typing SVG" />
 
 </div>
@@ -9,11 +8,30 @@
 
 ## whoami
 
-I'm **V Vishwa Kumar** — defensive security, preparing for SOC, DFIR, and Detection Engineering roles. I break things from an attacker's perspective so I can defend faster. That's not a philosophy, it's a workflow. [Read more →](https://vishwakumarv.github.io/about/)
+```bash
+┌──(vishwakumarv㉿kali)-[~]
+└─$ cat whoami.txt
 
-I think in terms of alerts, timelines, and evidence. A finding without a timeline and a recommendation is unfinished work. I run Linux daily, document everything I touch as a case study, and study attacker tradecraft across web, OSINT, and reverse engineering to keep my perspective fresh.
+  Name     : V Vishwa Kumar
+  Role     : Defensive Security | SOC · DFIR · Detection Engineering
+  Mindset  : Attacker's perspective. Defender's mission.
+  Workflow : Break it to defend it faster — that's not philosophy, it's ops.
 
-I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and [TryHackMe](https://tryhackme.com/p/vishwakumarv), have interned building ESP32 and Raspberry Pi-based IIoT devices. I treat side projects like real engagements — scope, evidence, findings, recommendations, lessons learned. Everything gets written up at [vishwakumarv.github.io](https://vishwakumarv.github.io).
+  I think in terms of alerts, timelines, and evidence.
+  A finding without a timeline and a recommendation is unfinished work.
+
+  Daily driver  : Linux
+  Approach      : Every side project is a real engagement —
+                  scope, evidence, findings, recommendations, lessons learned.
+  Writing       : vishwakumarv.github.io
+
+  Competing on  : HackTheBox · TryHackMe
+  Interned      : ESP32 & Raspberry Pi IIoT devices + security work
+
+└─$ _
+```
+
+> [Read more →](https://vishwakumarv.github.io/about/)
 
 ---
 
@@ -28,6 +46,7 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-000000?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vishwakumarv)
 [![CyberDefenders](https://img.shields.io/badge/CYBERDEFENDERS-000000?style=flat-square&logo=shield&logoColor=white)](https://cyberdefenders.org/p/vishwakumarv/)
 [![CryptoHack](https://img.shields.io/badge/CRYPTOHACK-000000?style=flat-square&logo=gnuprivacyguard&logoColor=white)](https://cryptohack.org/user/vishwakumarv/)
+[![Writeups](https://img.shields.io/badge/WRITEUPS-000000?style=flat-square&logo=bookstack&logoColor=white)](https://vishwakumarv.github.io/writeups)
 [![Mail](https://img.shields.io/badge/MAIL-000000?style=flat-square&logo=protonmail&logoColor=white)](mailto:vkumxr@proton.me)
 
 </div>
@@ -113,6 +132,20 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwakumarv/vishwakumarv/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwakumarv/vishwakumarv/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vishwakumarv/vishwakumarv/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## CTF Platforms
 
 <div align="center">
@@ -125,6 +158,12 @@ I compete in CTFs on [HackTheBox](https://app.hackthebox.com/users/2569138) and 
 
 <a href="https://tryhackme.com/p/vishwakumarv">
   <img src="https://tryhackme-badges.s3.amazonaws.com/vishwakumarv.png" alt="TryHackMe Badge" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://cyberdefenders.org/p/vishwakumarv/">
+  <img src="https://img.shields.io/badge/CyberDefenders-Profile-1a1a1a?style=flat-square&logo=shield&logoColor=white" alt="CyberDefenders Profile" />
 </a>
 
 </div>
