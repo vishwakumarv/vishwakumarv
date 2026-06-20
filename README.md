@@ -146,30 +146,6 @@
 
 ---
 
-## CTF Platforms
-
-<div align="center">
-
-<a href="https://app.hackthebox.com/users/2569138">
-  <img src="https://www.hackthebox.eu/badge/image/2569138" alt="Hack The Box Badge" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://tryhackme.com/p/vishwakumarv">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/vishwakumarv.png" alt="TryHackMe Badge" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://cyberdefenders.org/p/vishwakumarv/">
-  <img src="https://img.shields.io/badge/CyberDefenders-Profile-1a1a1a?style=flat-square&logo=shield&logoColor=white" alt="CyberDefenders Profile" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 <sub>
 <img src="https://komarev.com/ghpvc/?username=vishwakumarv&label=profile+views&color=555555&style=flat-square" alt="Profile Views"/>
