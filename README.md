@@ -6,18 +6,26 @@
 
 ---
 
-Hello, I'm **V Vishwa Kumar**, a defensive security practitioner focused on SOC operations, digital forensics, and detection engineering. I think in terms of alerts, timelines, and evidence — because a finding without context and recommendation is unfinished work.
+### `npx vishwa`
 
-I'm passionate about malware analysis, threat hunting, and DFIR. I approach every engagement like it's real: complete scope, evidence, findings, recommendations, lessons learned. I compete on HackTheBox and TryHackMe, actively hunt on Bugcrowd and HackerOne, and write about security work at [vishwakumarv.github.io](https://vishwakumarv.github.io).
+Hello, this is **V Vishwa Kumar**, a defensive security practitioner building expertise in **SOC operations**, **digital forensics**, and **detection engineering**.
 
-**Daily driver:** Linux · **Mindset:** Break it to defend it faster · **Location:** Bengaluru, India
+I'm passionate about **malware analysis**, **threat hunting**, and **DFIR**. I think in terms of alerts, timelines, and evidence — because a finding without context and recommendation is unfinished work. I believe every side project is a real engagement: complete scope, evidence, findings, recommendations, lessons learned.
 
-- ⭐ [Read more about me](https://vishwakumarv.github.io/about/)
-- 🔗 [GitHub](https://github.com/vishwakumarv) · [LinkedIn](https://www.linkedin.com/in/vishwakumarv/) · [HackTheBox](https://app.hackthebox.com/users/2569138) · [TryHackMe](https://tryhackme.com/p/vishwakumarv) · [Bugcrowd](https://bugcrowd.com/vishwakumarv) · [HackerOne](https://hackerone.com/vkumxr)
-- ✉️ [Email](mailto:vkumxr@proton.me)
+I love **breaking systems to defend them faster**. I actively compete on **HackTheBox** and **TryHackMe**, hunt vulnerabilities on **Bugcrowd** and **HackerOne**, and write about security work on my blog.
 
----
+I love **Linux**, **Python**, and **security tooling**. Currently focused on **malware analysis**, **log analysis**, and **detection rule development**.
 
-**Tools I use:** Wireshark · Volatility · Ghidra · YARA · Splunk · Burp Suite · Metasploit · Python · Bash · Kali Linux
+- ⭐️ [My Portfolio & Writeups](https://vishwakumarv.github.io)
+- 🔐 [What am I doing about Security? (**GitHub**, you're already here)](https://github.com/vishwakumarv)
+- 𝕏 [What do I think? (**X/Twitter**)](https://x.com/vkumxr)
+- 🟦 [What do I also do? (**HackTheBox**)](https://app.hackthebox.com/users/2569138)
+- 🎓 [How do I practice? (**TryHackMe**)](https://tryhackme.com/p/vishwakumarv)
+- 🐛 [Finding bugs responsibly (**Bugcrowd**)](https://bugcrowd.com/vishwakumarv)
+- 🛡️ [Security research (**HackerOne**)](https://hackerone.com/vkumxr)
+- 💼 [Career path & background (**LinkedIn**)](https://www.linkedin.com/in/vishwakumarv/)
+- ✉️ [Email me](mailto:vkumxr@proton.me)
 
-Currently building CTF writeups, detection rules, and contributing to the security community. Always learning. Always hacking.
+Do not forget to check out my CTF writeups and security research below 👇🏻
+
+> P.S. To read this intro on terminal, just run `npx vishwa`. But why? -- because understanding your own README deeply is half the battle. 🛡️
