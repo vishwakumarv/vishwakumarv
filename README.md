@@ -1,14 +1,8 @@
-
-
-
-
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Attacker%27s+perspective.+Defender%27s+mission.;SOC+%C2%B7+DFIR+%C2%B7+Detection+Engineering" alt="Typing SVG" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Vishwa Kumar" src="dark.svg">
+</picture>
 
 ---
 
