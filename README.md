@@ -1,11 +1,6 @@
-
-<!-- <img src="./contrib-heatmap.svg" width="860" alt="Vishwa's GitHub contribution graph — auto-refreshed daily" /> -->
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0e4429/vishwakumarv" alt="GitHub Contributions" />
-</p>
-
-![GitHub contribution grass](https://github-readme-insight-terminal-asci.vercel.app/svg?user=vishwakumarv&theme=mac)
+<div align = "center">
+  <img src="./vishwakumarv-contrib-heatmap.svg" width="860" alt="Vishwa's GitHub contribution graph — auto-refreshed daily" />
+</div>
 
 ### `npx vishwa`
 
