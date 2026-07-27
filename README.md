@@ -1,4 +1,7 @@
 
+<img src="./contrib-heatmap.svg" width="860" alt="Vishwa's GitHub contribution graph — auto-refreshed daily" />
+
+
 
 ![GitHub contribution grass](https://github-readme-insight-terminal-asci.vercel.app/svg?user=vishwakumarv&theme=mac)
 
