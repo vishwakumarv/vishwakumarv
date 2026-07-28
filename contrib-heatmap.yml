@@ -1,0 +1,33 @@
+name: Update Contribution Heatmap
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily at 03:17 UTC — off-the-hour to avoid GitHub's cron rush
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate heatmap SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: vishwakumarv
+        run: python3 scripts/generate_heatmap.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add contrib-heatmap.svg vishwakumarv-contrib-heatmap.svg
+          git diff --staged --quiet || git commit -m "chore: refresh contribution heatmap"
+          git push
