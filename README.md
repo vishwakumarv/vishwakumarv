@@ -18,7 +18,7 @@ I love **Linux**, **Python**, and **security tooling**. Currently focused on **m
 -  [What do I also do? (**HackTheBox**)](https://app.hackthebox.com/users/2569138)
 -  [How do I practice? (**TryHackMe**)](https://tryhackme.com/p/vishwakumarv)
 -  [Finding bugs responsibly (**Bugcrowd**)](https://bugcrowd.com/vishwakumarv)
-- 🛡️ [Security research (**HackerOne**)](https://hackerone.com/vishwakumarv_)
+-  [Security research (**HackerOne**)](https://hackerone.com/vishwakumarv_)
 - 💼 [Career path & background (**LinkedIn**)](https://www.linkedin.com/in/vishwakumarv/)
 - ✉️ [Email me](mailto:vkumxr@proton.me)
 
