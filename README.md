@@ -25,6 +25,6 @@ I love **Linux**, **Python**, and **security tooling**. Currently focused on **m
 - 💼 [Career path & background (**LinkedIn**)](https://www.linkedin.com/in/vishwakumarv/)
 - ✉️ [Email me](mailto:vkumxr@proton.me)
 
-Do not forget to check out my CTF writeups and security research below 👇🏻
+Do not forget to check out my [CTF writeups and security research](https://vishwakumarv.github.io/writeups)
 
 > P.S. To read this intro on terminal, just run `npx vishwa`. But why? -- because understanding your own README deeply is half the battle. 🛡️
