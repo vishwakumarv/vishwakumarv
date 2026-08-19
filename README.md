@@ -2,25 +2,30 @@
   <img src="./vishwakumarv-contrib-heatmap.svg" width="860" alt="Vishwa's GitHub contribution graph — auto-refreshed daily" />
 </div>
 
-### `npx vishwa`
+### `cat whoami.txt`
 
-Hello, this is **V Vishwa Kumar**, a defensive security practitioner building expertise in **SOC operations**, **digital forensics**, and **detection engineering**.
+Hey, I'm **V Vishwa Kumar** — I break things on purpose, write down exactly how, and then tell the people who own them before anyone else does.
 
-I'm passionate about **malware analysis**, **threat hunting**, and **DFIR**. I think in terms of alerts, timelines, and evidence — because a finding without context and recommendation is unfinished work. I believe every side project is a real engagement: complete scope, evidence, findings, recommendations, lessons learned.
+I work at the intersection of **vulnerability research**, **bug bounty hunting**, and **DFIR**. My mental model isn't "find a bug" — it's **scope → recon → exploit → evidence → disclosure → lessons learned**. Every CTF, every writeup, every side project gets treated like a real engagement, because half-documented findings are just anecdotes.
 
-I love **breaking systems to defend them faster**. I actively compete on **HackTheBox** and **TryHackMe**, hunt vulnerabilities on **Bugcrowd** and **HackerOne**, and write about security work on my blog.
+Currently deep in:
+- 🦆 Building offensive tooling — USB Rubber Ducky payloads, phishing toolkits, custom recon scripts
+- 🔍 Bug bounty hunting on **Bugcrowd** and **HackerOne** — recon-heavy, subdomain takeovers, auth/access-control bugs, GraphQL/API abuse
+- 🤖 AI/LLM security — indirect prompt injection, agent scope-bypass research
+- 🏭 ICS/OT protocol security — Modbus RTU/TCP, embedded IIoT
+- 🚩 CTFs across **HackTheBox**, **TryHackMe**, and **picoCTF**
 
-I love **Linux**, **Python**, and **security tooling**. Currently focused on **malware analysis**, **log analysis**, and **detection rule development**.
+I think in terms of **PoCs, not paragraphs**. If I can't reproduce it, it's not a finding yet.
 
--  [My Portfolio & Writeups](https://vishwakumarv.github.io)
--  [What am I doing about Security? (**GitHub**, you're already here)](https://github.com/vishwakumarv)
--  [What do I think? (**X/Twitter**)](https://x.com/vishwakumarv_)
--  [What do I also do? (**HackTheBox**)](https://app.hackthebox.com/users/2569138)
--  [How do I practice? (**TryHackMe**)](https://tryhackme.com/p/vishwakumarv)
--  [Finding bugs responsibly (**Bugcrowd**)](https://bugcrowd.com/vishwakumarv)
--  [Career path & background (**LinkedIn**)](https://www.linkedin.com/in/vishwakumarv/)
--  [Email me](mailto:vkumxr@proton.me)
+- 🔗 [My Portfolio & Writeups](https://vishwakumarv.github.io)
+- 🧾 [What am I building? (**GitHub**, you're already here)](https://github.com/vishwakumarv)
+- 🐦 [What do I think? (**X/Twitter**)](https://x.com/vishwakumarv_)
+- 🎯 [What do I break? (**HackTheBox**)](https://app.hackthebox.com/users/2569138)
+- 🧠 [How do I train? (**TryHackMe**)](https://tryhackme.com/p/vishwakumarv)
+- 🐛 [Finding bugs responsibly (**Bugcrowd**)](https://bugcrowd.com/vishwakumarv)
+- 💼 [Career path & background (**LinkedIn**)](https://www.linkedin.com/in/vishwakumarv/)
+- ✉️ [Email me](mailto:vkumxr@proton.me)
 
-Do not forget to check out my [CTF writeups and security research](https://vishwakumarv.github.io/writeups)
+Don't miss the [CTF writeups and security research](https://vishwakumarv.github.io/writeups) — full scope, evidence, and root-cause on every entry.
 
-> P.S. To read this intro on terminal, just run `npx vishwa`. But why? -- because understanding your own README deeply is half the battle. 🛡️
+> P.S. To read this intro on terminal, run `npx vishwa`. Why? Because a rubber ducky doesn't ask permission before it plugs in — and neither should your curiosity. 🦆⚡
