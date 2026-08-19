@@ -8,13 +8,6 @@ Hey, I'm **V Vishwa Kumar** — I break things on purpose, write down exactly ho
 
 I work at the intersection of **vulnerability research**, **bug bounty hunting**, and **DFIR**. My mental model isn't "find a bug" — it's **scope → recon → exploit → evidence → disclosure → lessons learned**. Every CTF, every writeup, every side project gets treated like a real engagement, because half-documented findings are just anecdotes.
 
-Currently deep in:
-- 🦆 Building offensive tooling — USB Rubber Ducky payloads, phishing toolkits, custom recon scripts
-- 🔍 Bug bounty hunting on **Bugcrowd** and **HackerOne** — recon-heavy, subdomain takeovers, auth/access-control bugs, GraphQL/API abuse
-- 🤖 AI/LLM security — indirect prompt injection, agent scope-bypass research
-- 🏭 ICS/OT protocol security — Modbus RTU/TCP, embedded IIoT
-- 🚩 CTFs across **HackTheBox**, **TryHackMe**, and **picoCTF**
-
 I think in terms of **PoCs, not paragraphs**. If I can't reproduce it, it's not a finding yet.
 
 - 🔗 [My Portfolio & Writeups](https://vishwakumarv.github.io)
