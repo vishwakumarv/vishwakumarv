@@ -10,14 +10,14 @@ I work at the intersection of **vulnerability research**, **bug bounty hunting**
 
 I think in terms of **PoCs, not paragraphs**. If I can't reproduce it, it's not a finding yet.
 
-- 🔗 [My Portfolio & Writeups](https://vishwakumarv.github.io)
-- 🧾 [What am I building? (**GitHub**, you're already here)](https://github.com/vishwakumarv)
-- 🐦 [What do I think? (**X/Twitter**)](https://x.com/vishwakumarv_)
-- 🎯 [What do I break? (**HackTheBox**)](https://app.hackthebox.com/users/2569138)
-- 🧠 [How do I train? (**TryHackMe**)](https://tryhackme.com/p/vishwakumarv)
-- 🐛 [Finding bugs responsibly (**Bugcrowd**)](https://bugcrowd.com/vishwakumarv)
-- 💼 [Career path & background (**LinkedIn**)](https://www.linkedin.com/in/vishwakumarv/)
-- ✉️ [Email me](mailto:vkumxr@proton.me)
+-  [My Portfolio & Writeups](https://vishwakumarv.github.io)
+-  [What am I building? (**GitHub**, you're already here)](https://github.com/vishwakumarv)
+-  [What do I think? (**X/Twitter**)](https://x.com/vishwakumarv_)
+-  [What do I break? (**HackTheBox**)](https://app.hackthebox.com/users/2569138)
+-  [How do I train? (**TryHackMe**)](https://tryhackme.com/p/vishwakumarv)
+-  [Finding bugs responsibly (**Bugcrowd**)](https://bugcrowd.com/vishwakumarv)
+-  [Career path & background (**LinkedIn**)](https://www.linkedin.com/in/vishwakumarv/)
+-  [Email me](mailto:vkumxr@proton.me)
 
 Don't miss the [CTF writeups and security research](https://vishwakumarv.github.io/writeups) — full scope, evidence, and root-cause on every entry.
 
