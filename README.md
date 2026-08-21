@@ -16,7 +16,7 @@ Right now I'm going deeper, past the vulnerabilities that already have names, in
 
 When I'm not breaking something on purpose, I'm building something quietly, so I know exactly how to take it apart later.
 
-- [My Portfolio & Writeups](https://vishwakumarv.github.io)
+- [My Writeups](https://vishwakumarv.github.io)
 - [What am I building? (**GitHub**, you're already here)](https://github.com/vishwakumarv)
 - [What do I think? (**X/Twitter**)](https://x.com/vishwakumarv_)
 - [What do I break? (**HackTheBox**)](https://app.hackthebox.com/users/2569138)
