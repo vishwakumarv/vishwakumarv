@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img src="./vishwakumarv-contrib-heatmap.svg" width="860" alt="Vishwa's GitHub contribution graph — auto-refreshed daily" />
 </div>
